@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class Car {
+public class Car {
+
+    void openDoor(){
+        System.out.println("The door is open...");
+    }
+
 }
